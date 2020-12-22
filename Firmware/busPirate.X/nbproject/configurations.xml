@@ -117,10 +117,8 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC24F-GA-GB_DFP" vendor="Microchip" version="1.4.141"/>
+        <pack name="PIC24F-GA-GB_DFP" vendor="Microchip" version="1.0.28"/>
       </packs>
-      <ScriptingSettings>
-      </ScriptingSettings>
       <compileType>
         <linkerTool>
           <linkerLibItems>
@@ -138,7 +136,6 @@
       </compileType>
       <makeCustomizationType>
         <makeCustomizationPreStepEnabled>false</makeCustomizationPreStepEnabled>
-        <makeUseCleanTarget>false</makeUseCleanTarget>
         <makeCustomizationPreStep></makeCustomizationPreStep>
         <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
         <makeCustomizationPostStep></makeCustomizationPostStep>
@@ -153,8 +150,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -167,8 +162,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -181,8 +174,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -195,8 +186,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -209,8 +198,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -223,8 +210,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -237,8 +222,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -251,8 +234,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -265,8 +246,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -279,8 +258,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -293,8 +270,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -363,9 +338,6 @@
         <property key="relax" value="false"/>
         <property key="warning-level" value="emit-warnings"/>
       </C30-AS>
-      <C30-CO>
-        <property key="coverage-enable" value=""/>
-      </C30-CO>
       <C30-LD>
         <property key="additional-options-use-response-files" value="false"/>
         <property key="boot-eeprom" value="no_eeprom"/>
@@ -783,10 +755,8 @@
         <platform>4</platform>
       </toolsSet>
       <packs>
-        <pack name="PIC24F-GA-GB_DFP" vendor="Microchip" version="1.4.141"/>
+        <pack name="PIC24F-GA-GB_DFP" vendor="Microchip" version="1.0.28"/>
       </packs>
-      <ScriptingSettings>
-      </ScriptingSettings>
       <compileType>
         <linkerTool>
           <linkerLibItems>
@@ -804,7 +774,6 @@
       </compileType>
       <makeCustomizationType>
         <makeCustomizationPreStepEnabled>false</makeCustomizationPreStepEnabled>
-        <makeUseCleanTarget>false</makeUseCleanTarget>
         <makeCustomizationPreStep></makeCustomizationPreStep>
         <makeCustomizationPostStepEnabled>false</makeCustomizationPostStepEnabled>
         <makeCustomizationPostStep></makeCustomizationPostStep>
@@ -819,8 +788,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -833,8 +800,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -847,8 +812,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -861,8 +824,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
@@ -875,8 +836,6 @@
         </C30-AR>
         <C30-AS>
         </C30-AS>
-        <C30-CO>
-        </C30-CO>
         <C30-LD>
         </C30-LD>
         <C30Global>
