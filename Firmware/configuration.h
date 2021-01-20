@@ -328,6 +328,8 @@
 #define BP_ENABLE_SPI_SUPPORT
 #define BP_ENABLE_SUMP_SUPPORT
 #define BP_ENABLE_UART_SUPPORT
+//#define BP_I2C_USE_HW_BUS // Only enable this if your chip is not rev A3 or A4 (use i in console to check)
+
 #endif /* BUSPIRATEV3 */
 
 #endif /* !BP_CUSTOM_FEATURE_SET */
