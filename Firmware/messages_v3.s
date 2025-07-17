@@ -338,7 +338,7 @@ _BPMSG1117_str:
 	.section .text.BPMSG1118, code
 	.global _BPMSG1118_str
 _BPMSG1118_str:
-	.pasciz "http://dangerousprototypes.com"
+	.pasciz "http://github.com/ElderlyPirate"
 
 	; BPMSG1119
 	.section .text.BPMSG1119, code
