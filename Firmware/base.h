@@ -44,7 +44,7 @@
 /**
  * @brief Firmware version string, used at startup and for the 'i' command.
  */
-#define BP_FIRMWARE_STRING "Community Firmware v7.1 - goo.gl/gCzQnW "
+#define BP_FIRMWARE_STRING "Firmware v8.0 - goo.gl/gCzQnW "
 
 /**
  * @brief Current mode configuration settings structure.
